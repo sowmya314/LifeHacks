@@ -1,1 +1,2 @@
-print("ang sucks")
+for i in range(0,5):
+  print("HELLO!")
